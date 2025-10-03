@@ -39,4 +39,4 @@
 5. Follow the on-screen prompts.
 
 ## Here is Decision tree:
-![alt text](image.png)
+![](image.png)
