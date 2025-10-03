@@ -39,4 +39,4 @@
 5. Follow the on-screen prompts.
 
 ## Here is Decision tree:
-![](image.png)
+![Decision Tree](<Screenshot from 2025-10-03 09-50-15.png>)
